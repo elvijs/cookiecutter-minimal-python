@@ -1,4 +1,4 @@
-{{cookiecutter.friendly_name}}
+{{cookiecutter.project_slug}}
 
 [![tests](https://github.com/{{cookiecutter.github_user}}/{{cookiecutter.project_name}}/workflows/tests/badge.svg)][https://github.com/{{cookiecutter.github_user}}/{{cookiecutter.project_name}}/actions/workflows/tests.yml]
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][https://github.com/pre-commit/pre-commit]
