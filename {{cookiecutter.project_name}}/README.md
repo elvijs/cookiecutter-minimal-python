@@ -16,10 +16,13 @@ TODO
 $ make install
 ```
 
+[Set up `pre-commit` hooks](https://pre-commit.com/).
+
+
 ## Usage
 
 * Auto-format: `make format`
-* Run static checkers: `make statec_checks`
+* Run static checkers: `make static_checks`
 * Freeze the local env into `test_requirements` (say, after installing new deps): 
   `make freeze_requirements`.
 
